@@ -4,5 +4,30 @@
   },
   "dependencies": {
     "getos": "^3.1.1"
-  }
+  },
+  "name": "frea",
+  "version": "1.0.0",
+  "description": "Mirroring the npm registry for much good",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retrohacker/frea-cli.git"
+  },
+  "keywords": [
+    "npm",
+    "registry",
+    "mirror",
+    "yarn",
+    "frea"
+  ],
+  "author": "William Blankenship <will@blankenship.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retrohacker/frea-cli/issues"
+  },
+  "homepage": "https://github.com/retrohacker/frea-cli#readme"
 }
