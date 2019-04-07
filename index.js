@@ -25,7 +25,7 @@ const dontWrap = [
 ]
 
 if(dontWrap.indexOf(String(args[0]).toLowerCase()) === -1) {
-  env['npm_config_registry'] = 'http://mdm.blankenship.io'
+  env['npm_config_registry'] = 'http://registry.freajs.org'
 }
 
 spawn(command, args, {
