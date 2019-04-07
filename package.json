@@ -6,7 +6,7 @@
     "getos": "^3.1.1"
   },
   "name": "frea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mirroring the npm registry for much good",
   "main": "index.js",
   "devDependencies": {},
