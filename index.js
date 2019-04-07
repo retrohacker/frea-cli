@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const {spawn} = require('child_process')
 let args = process.argv.slice(2)
 let command = 'npm'
